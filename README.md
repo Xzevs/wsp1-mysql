@@ -1,5 +1,5 @@
 # wsp1-mysql
-
+Intro till MYSQL
 ## Starta Server
 
 Kör igång Ubuntu
