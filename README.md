@@ -17,3 +17,4 @@ Stoppa branchcache och starta apache2
 Kör 
     sudo mysql -u root
 
+    grant all privileges on *.* to 'rasmus'@'localhost' identified by 'password';
