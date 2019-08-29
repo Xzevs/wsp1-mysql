@@ -18,3 +18,10 @@ Kör
     sudo mysql -u root
 
     grant all privileges on *.* to 'rasmus'@'localhost' identified by 'password';
+    
+## Apache2
+cd /etc/apache2
+
+sudo a2enmod
+
+Sedan går du in på localhost sidan och byter namn till localhost/~ Namn
